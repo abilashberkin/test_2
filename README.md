@@ -1,1 +1,1 @@
-Complete Ruby on Rails Developer
+Completed Ruby on Rails Developer course by Abilash Berkin
